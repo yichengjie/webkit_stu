@@ -1,0 +1,26 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yicj",
+  "license": "ISC",
+  "window": {
+    "title": "附加服务",
+    "icon": "b.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse"
+  },
+  "devDependencies": {
+    "angular": "^1.4.7",
+    "bootstrap": "^3.3.5",
+    "electron": "^0.4.1",
+    "jquery": "^1.11.3"
+  }
+}
